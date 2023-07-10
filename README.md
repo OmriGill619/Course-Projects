@@ -1,3 +1,3 @@
 # Course-Projects
-Projects
-This is the project for all my Practicum projects
+
+This is the project page for all my TripleTen (f.k.a Practicum) projects
